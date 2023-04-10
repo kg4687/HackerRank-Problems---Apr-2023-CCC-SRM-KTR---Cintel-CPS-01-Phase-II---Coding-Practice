@@ -7,3 +7,5 @@ int main()
 	(var1 >= var2)?printf("Value1 is not less than Value2 "):printf("Value1 is less than Value2");
 	return 0;
 }
+
+
